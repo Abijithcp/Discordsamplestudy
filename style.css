@@ -1,0 +1,438 @@
+body
+{
+    margin: 0%;
+}
+.top{
+    width: 100%;
+    height: 80px;
+    background-color: #404eed;
+}
+.Container{
+    vertical-align: top;
+}
+.logo{
+    width: 10%;
+    padding-left: -110px;
+    height: 90px;
+    margin-left: -900px;
+    margin-top: -5px;
+    border-style: hidden;
+    border-color: white;
+}
+.heading{
+    width: 40%;
+    height: 20px;
+    align-items: center;
+    padding-left: 500px;
+    padding-top: 100px;
+    color: white;
+    font-size: 60px;
+    font-family: var(--font-headline);
+    font-weight: 1000;
+    
+}
+.headsub{
+    width: 60%;
+    height: 40px;
+    padding-left:450px ;
+    padding-top: 5px;
+    color: white;
+    line-height: 30px;
+    font-weight: 550;
+}
+.background{
+    height: 570px;
+    width: 100%;
+    background-color: #404eed;
+    background-image: url(discordimages/discord-center.svg);
+    background-position-x: -537px;
+    background-position-y: 1px;
+    background-repeat: no-repeat;
+}
+.table a{
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-decoration: none;
+    color: white;   
+}
+
+.tablediv{
+    align-items: center;
+    float: left;
+    margin-top: -23px;
+    margin-left: 390px;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: white;
+    width: 700px;
+    
+    
+}
+.table{
+    border-spacing: 56px;
+    font-weight: bold;
+}
+.logdiv{
+    width: 100px;
+    background-color: blanchedalmond;
+}
+    
+
+.td:hover{
+    text-decoration: underline;
+}
+.login{
+    padding: 4px 40px;
+    border-radius: 23px;
+    
+    margin-left: 1040px;
+    padding-top: -210px;
+    margin-top: -10px;
+    width: 10px;
+    padding-left: 10px;
+    
+    border-color: none;
+}
+.login:hover{
+    background-color: #5865f2;
+}
+.buttond{
+    width: 300px;
+    
+    border-radius: 560px;
+    padding: 13px 9px;
+    margin-top: 86px;
+    margin-left: 500px;
+    font-size: 18px;
+    cursor: pointer;
+    border: 0;
+    background-color: #fff;
+    padding-top: -0px;
+   
+}
+.buttond:hover{
+    color: #5865f2;
+}
+.buttond2{
+    width: 340x;
+    border-radius: 560px;
+    padding: 17px 30px;
+    margin-top: -51px;
+    margin-left:19px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 0;
+    background-color:black;
+    color: white;
+}
+.buttond2:hover{
+    background-color: #282727;
+}
+.download-img{
+    width: 26px;
+    height: 25px;
+    padding-left: -0px;
+    margin-left: 3px;
+    padding-top: 9px;
+    margin-top: px;
+}
+.download-img:hover{
+    color:#5865f2;
+    
+}
+
+
+.imgcenter{
+    width: 1540px;
+    height: 610px;
+ 
+}
+.imgstyle{
+    
+    width: 1560px;
+    height: 20px;
+    
+}
+.image1{
+    height: 200px;
+    width: 800px;
+   
+}
+.image-1{
+    height: 384px;
+    width: 714px;
+    margin-left: -250px;
+    margin-top: 19px;
+    padding-top: 145px;
+    padding-right: 50px;
+    
+}
+.image2{
+    height: 30px;
+    width:500px;
+    
+}
+
+.image-2{
+    height: 450px;
+    width: 540px;
+    margin-top: -600px;
+    margin-left: 1160px;
+    padding-top: 200px;
+}
+.body1{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+}
+.body1-1{
+    width: 60%;
+    height: 690px;
+    float: left;
+    
+    
+
+}
+.body1-2{
+    width: 40%;
+    height: 690px;
+    float: left;
+  padding-top: 130px;
+  font-size: 25px;
+  line-height: 55px;
+    
+    
+    
+    
+}
+
+.body1-1-img{
+    margin-top: 127px;
+    margin-left: 150px;
+}
+.body1-2-h2{
+    
+    font-weight: 700;
+   
+    font-family: var(--font-display);
+    font-size: 50px;
+    padding-left: 30px;
+ 
+  
+}
+
+
+.body2{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    background-color:rgb(235, 235, 235)
+    
+}
+.body2-1{
+    width: 40%;
+    height: 800px;
+    padding-left: 150px;
+    padding-top: 150px;
+    font-weight: 700;
+    line-height: 190%;
+    font-family: var(--font-display);
+    font-size: x-large;
+}
+.body2-2{
+    width: 60%;
+    height: 700px;
+    padding-left: 30px;
+    padding-top: 90px;
+}
+.body3{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    background-color: rgb(246, 246, 246);
+}
+.body3-1{
+    width: 60%;
+    height: 700px;
+    padding-left: 30px;
+    padding-top: 90px;
+   
+}
+.body3-2{
+    width: 80%;
+    height: 700px;
+    width: 43%;
+    height: 600px;
+    padding-left: 130px;
+    padding-top: 130px;
+    font-weight: 100;
+    
+   
+}
+.body4{
+    width: 100%;
+    height: 1400px;
+    
+}
+.b4-h1{
+    font-family: var(--font-headline);
+    font-weight: 800;
+    line-height: 95%;
+    text-transform: uppercase;
+    text-rendering: geometricPrecision;
+    padding-left: 300px;
+    padding-top: 80px;
+    font-size: 50px;
+}
+.b4-p{
+    padding-left: 300px;
+    padding-top: 10px;
+}
+
+.b-4img{
+   width: 80%;
+   padding-left: 140px;
+   height: 800px;
+
+}
+.b-4img2{
+    padding-left: 550px;
+    padding-top: 150px;
+    width: 70%;
+   
+}
+.b-4h4{
+    padding-left: 518px;
+    padding-top: 27px;
+    background-image: url(discordimages/body-4-2.svg);
+    width: 35%;
+    font-weight: 600;
+    font-size: 32px;
+    background-position-x: 447px;
+    background-position-y: 1px;
+    background-repeat: no-repeat;
+}
+.b-4button{
+    border-radius: 560px;
+    padding: 16px 59px;
+    margin-top: 26px;
+    margin-left: 550px;
+    font-size: 18px;
+    cursor: pointer;
+    border: 0;
+    background-color: #5865f2;
+    color: white; 
+}
+.b-4button:hover{
+    background-color: #464cc1;
+}
+.footer{
+    width: 100%;
+    height: 550px;
+    background-color:#23272a;
+    font-size: small;
+    font-weight: 500;
+    display: flex;
+    display: flex;
+}
+.footer-left{
+    width: 30%;
+    height: 350px;
+    
+}
+.selection:hover{
+    margin-left: 100px;
+    padding-left: 10px;
+}
+.img-usa{
+    width: 100px;
+}
+.footer-right{
+    width: 70%;
+    height: 350px;
+   
+    display: flex;
+}
+.fh1{
+    color: rgb(32, 50, 244);
+    padding-left: 146px;
+    padding-top: 48px;
+    font-size: 39px;
+    height: 104px;
+    font-family: var(--font-headline);
+    font-weight: 1900;
+}
+
+
+
+.selection{
+    width: 20%;
+    height: 300px;
+    color: white;
+    padding-top: 180px;
+    padding-left: -2000px;
+    margin-left: -200px;
+}
+.lang{
+    width: 20%;
+    padding-left: 100px;
+}
+.f1{
+    padding-top: 50px;
+    padding-left: 130px;
+    font-size: 16px;
+    line-height: 24px;
+    height: 350px;
+    color: white;
+}
+.f2{
+    padding-top: 50px;
+    padding-left: 130px;
+    font-size: 16px;
+    line-height: 24px;
+    height: 350px;
+    color: white;
+}
+.f3{
+    padding-top: 50px;
+    color: white;
+    padding-left: 130px;
+    font-size: 16px;
+    line-height: 24px;
+    height: 350px;
+}
+.f4{
+    padding-top: 50px;
+    color: white;
+    padding-left: 130px;
+    font-size: 16px;
+    line-height: 24px;
+    height: 350px;
+}
+.fh{
+    color: blue;
+}
+.flogo{
+    padding-top: 420px;
+    padding-left: -995px;
+    margin-left: -1477px;
+}
+.fblogo{
+    background-color: white;
+    width: 200px;
+    margin-left: 130px;
+    margin-top: 10px;
+}
+.button-signup{
+    padding: 8px 13px;
+    border-radius: 60px;
+    font-size: 14px;
+    background-color: #404eed;
+    margin-left: 1150px;
+    padding-top: -110px;
+    margin-top: -20px;
+    
+}
+.button-signup:hover{
+    background-color: #5865f2;
+    border-color: none;
+}
+
